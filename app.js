@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 8a - PDFファイルに見出しと時刻を出力する
+ *  Lesson PDF 1 - PDFファイルに見出しと作成日時を出力する
  * 
  * [NOTE]
  */
